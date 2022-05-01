@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Justine you can call me Jabame
-- 👀 I’m interested in reading books, travel, motorcycles and cars...
-- 🌱 I’m currently learning JavaScript, Bootstrap MERN Stack and also PHP...
-- 📫 How to reach me: message me at my messenger fb at [facebook.com/jabame.sama]...
-- 🤗 although my github is a bit messed up ill edit it soon thnxx
+
 <!---
 Jabame731/Jabame731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
