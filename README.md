@@ -1,1 +1,1 @@
-![](https://vistr.dev/badge?repo=Jabame731.Jabame731)
+hello im a student learning full stack development
