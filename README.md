@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi 👋, I'm Justine<br>🌱 I’m currently learning **CodeIgniter, NextJs**
+Hi 👋, I'm Justine<br>🌱
 
 
 ## 🌐 Socials:
