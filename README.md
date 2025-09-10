@@ -14,7 +14,6 @@ Hi 👋, I'm Justine<br>🌱
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jabame731&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jabame731&icon=0&color=0)](https://visitcount.itsvg.in)
-![Profile Views](https://github-vistors-counter.onrender.com/github?username=<Jabame731>)
+![](https://komarev.com/ghpvc/?username=Jabame731)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
