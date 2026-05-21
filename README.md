@@ -2,7 +2,7 @@
 # 💫 About Me:
 Hi 👋, I'm Justine<br>🌱
 This is my portfolio
-https://my-portfolio-nu-jet-61.vercel.app/
+https://jusztine.vercel.app/
 
 
 ## 🌐 Socials:
