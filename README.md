@@ -18,11 +18,14 @@ https://jusztine.vercel.app/
 ![Karma](https://img.shields.io/badge/Karma-56C5A8.svg?style=for-the-badge&logo=karma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Jabame731&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+[![](https://github-stats-extended.vercel.app/api?username=Jabame731&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Jabame731&show_icons=true&include_all_commits=true)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jabame731&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jabame731&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-stats-extended.vercel.app/api/top-langs?username=Jabame731&langs_count=7&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=Jabame731&langs_count=7&theme=graywhite)<br />
 
 ---
 ![](https://komarev.com/ghpvc/?username=Jabame731)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
